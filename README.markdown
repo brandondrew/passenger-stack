@@ -3,6 +3,12 @@ Scripts for [Sprinkle](http://github.com/crafterm/sprinkle/ "Sprinkle"), the pro
 
 [Watch the demo screen cast](http://www.vimeo.com/2888665) of passenger-stack.
 
+
+## TO-DO ##
+* enable the use of rpm (yuck!) or yum or maybe even macports
+* make it easy (if it's not already!) to use an arbitrary alternate SSH port (22 makes attacks more likely!)
+
+
 ## How to get your sprinkle on:
 
 * Get a brand spanking new slice / host (Ubuntu please)
